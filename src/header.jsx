@@ -1,5 +1,5 @@
 // import frame from "./assets/n.svg";
-import mainLogo from "./assets/mainlogo.png";
+import mainLogo from "./assets/logo.png";
 
 export default function Header() {
   return (
